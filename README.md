@@ -1,4 +1,4 @@
-# app
+# IFF++ Project
 
 Gamefication project to increase students engagement. 
 
