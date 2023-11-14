@@ -1,7 +1,3 @@
 # IFF++ Project
 
-Gamefication project to increase students engagement. 
-
-## Getting Started
-
-----
+Gamefication project to increase students engagement. Made for study purpose.
