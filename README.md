@@ -1,3 +1,3 @@
 # IFF++ Project
 
-Gamefication project to increase students engagement. Made for study purpose.
+Mockup for a gamefication project to increase students engagement. Made for study purpose.
